@@ -1,0 +1,20 @@
+Appendectomy*//*11500.000000
+HeartTransplant*//*6900.000000
+CataractSurgery*//*15000.000000
+Gallbladder Removal*//*3200.000000
+Knee Replacement*//*2900.000000
+Hip Replacement*//*23000.000000
+Spinal Fusion*//*17000.000000
+Hernia Repair*//*6500.000000
+Hysterectomy*//*6320.000000
+Mastectomy*//*6000.000000
+Angioplasty*//*5500.000000
+Tonsillectomy*//*9800.000000
+Cesarean Section*//*4500.000000
+Prostatectomy*//*8500.000000
+Thyroidectomy*//*9700.000000
+Laparoscopy*//*4600.000000
+Gastric Bypass Surgery*//*18000.000000
+Liver Transplant*//*3200.000000
+Craniotomy*//*1500.000000
+Colectomy*//*4900.000000
